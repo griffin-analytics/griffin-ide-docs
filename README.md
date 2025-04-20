@@ -8,7 +8,7 @@
 
 ## Unlock the Potential of Marketing Data Science
 
-Griffin Analytics Studio is a cutting-edge, production-ready solution designed to empower data analysts data-savvy marketers. 
+Griffin Analytics Studio is designed to support data analysts data-savvy marketers. 
 
 ---
 
