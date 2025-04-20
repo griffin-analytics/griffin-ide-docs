@@ -56,10 +56,6 @@ export const MENU = [
         'Using the dynamic Toolbar',
         'user_toolbar'
     ),
-    M(
-        'Download',
-        'blueprint_download'
-    ),
     {
         title: 'Adopting the Theia Platform'
     },
